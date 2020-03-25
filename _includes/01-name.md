@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+I am Juan Acosta
+# This is the title
